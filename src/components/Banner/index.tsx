@@ -1,7 +1,7 @@
 import { Imagem, Titulo, Precos } from './styles'
 
 import bannerImg from '../../assets/images/banner-homem-aranha.png'
-import Tag from '../../Tag'
+import Tag from '../Tag'
 import Button from '../Button'
 
 const Banner = () => (
