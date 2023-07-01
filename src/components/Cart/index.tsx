@@ -28,7 +28,7 @@ const Cart = () => {
     }, 0)
   }
 
-  const removeItem = (id) => {
+  const removeItem = (id: string) => {
     dispatch(remove(id))
   }
 

@@ -5,6 +5,8 @@
 `npm install react-router-dom`
 `npm install --save @reduxjs`
 `npm install --save react-redux`
+`npm install --save react-router-hash-link`
+`npm install --save-dev @types/react-router-hash-link   `
 
 ## In case you has had set something in ".prittierrc"
 
