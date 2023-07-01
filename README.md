@@ -3,6 +3,8 @@
 `npm install`
 `npm install --save styled-components`
 `npm install react-router-dom`
+`npm install --save @reduxjs`
+`npm install --save react-redux`
 
 ## In case you has had set something in ".prittierrc"
 
