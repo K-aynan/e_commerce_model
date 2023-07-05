@@ -1,12 +1,12 @@
 ## Required Plugins
 
-`npm install` <br />
-`npm install --save styled-components` <br />
-`npm install react-router-dom`  <br />
-`npm install --save @reduxjs`  <br />
-`npm install --save react-redux`  <br />
-`npm install --save react-router-hash-link`  <br />
-`npm install --save-dev @types/react-router-hash-link   `  <br />
+### `npm install` <br />
+### `npm install --save styled-components` <br />
+### `npm install react-router-dom`  <br />
+### `npm install --save @reduxjs`  <br />
+### `npm install --save react-redux`  <br />
+### `npm install --save react-router-hash-link`  <br />
+### `npm install --save-dev @types/react-router-hash-link   `  <br />
 
 ## In case you has had set something in ".prittierrc"
 
