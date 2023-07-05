@@ -1,6 +1,6 @@
 ## Required Plugins
 
-`npm install`
+`npm install` <br />
 `npm install --save styled-components`
 `npm install react-router-dom`
 `npm install --save @reduxjs`
